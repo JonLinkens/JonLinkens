@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=jonlinkens.com&style=for-the-badge&url=https%3A%2F%2Fjonlinkens.com)](https://jonlinkens.com)
 
 
-I work with whatever language I think is the best to get the task done, but usually you'll find me working in **TypeScript** or **Python**. I spend most of my time knee-deep in JavaScript frameworks or dealing with backend tasks.
+I work with whatever language I think is the best to get the task done, but usually you'll find me working in **TypeScript**, **JavaScript** or **Python**. I spend most of my time knee-deep in JavaScript frameworks or dealing with backend tasks.
 
 Some things which have caught my interest recently:
 - 🧠 Knowledge bases (in particular, [Obsidian](https://obsidian.md/))
