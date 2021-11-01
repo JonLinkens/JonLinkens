@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello, I'm Jon 🌱
 
-<!--
-**JonLinkens/JonLinkens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with whatever language I think is the best to get the task done, but usually you'll find me working in **TypeScript** or **Python**. I spend most of my time knee-deep in JavaScript frameworks or dealing with backend tasks.
 
-Here are some ideas to get you started:
+Some things which have caught my interest recently:
+- 🧠 Knowledge bases (in particular, [Obsidian](https://obsidian.md/))
+- 🧾 Article Summarisation
+- 🍓 JAMStack
+- 👨‍🏫 Developing no-code platforms 
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to learn more about some of what I do, visit my website below, or take a look at my [thoughts](https://thoughts.jonlinkens.com).  
+  
+[![Website](https://img.shields.io/website?label=jonlinkens.com&style=for-the-badge&url=https%3A%2F%2Fjonlinkens.com)](https://jonlinkens.com)
+ 
+<br/>
+
+
+Otherwise, take a glance at what type of languages I've been using recently:  
+  
+![VS Code Mileage](https://github-readme-stats.vercel.app/api/wakatime?username=jonlinkens&layout=compact&theme=dracula)
+
+
+To get in touch, drop an email via my website 😄
