@@ -16,7 +16,7 @@ If you want to learn more about some of what I do, visit my website below, or ta
 <br/>
 
 
-Otherwise, take a glance at what type of languages I've been using recently:  
+Otherwise, take a glance at what type of languages I've been spending time with recently:  
   
 ![VS Code Mileage](https://github-readme-stats.vercel.app/api/wakatime?username=jonlinkens&layout=compact&theme=dracula)
 
