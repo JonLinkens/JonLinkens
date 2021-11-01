@@ -1,5 +1,8 @@
 ## Hello, I'm Jon 🌱
 
+[![Website](https://img.shields.io/website?label=jonlinkens.com&style=for-the-badge&url=https%3A%2F%2Fjonlinkens.com)](https://jonlinkens.com)
+
+
 I work with whatever language I think is the best to get the task done, but usually you'll find me working in **TypeScript** or **Python**. I spend most of my time knee-deep in JavaScript frameworks or dealing with backend tasks.
 
 Some things which have caught my interest recently:
@@ -9,9 +12,8 @@ Some things which have caught my interest recently:
 - 👨‍🏫 Developing no-code platforms 
 <br/>
 
-If you want to learn more about some of what I do, visit my website below, or take a look at my [thoughts](https://thoughts.jonlinkens.com).  
+If you want to learn more about some of what I do, visit my website or take a look at my [thoughts](https://thoughts.jonlinkens.com).  
   
-[![Website](https://img.shields.io/website?label=jonlinkens.com&style=for-the-badge&url=https%3A%2F%2Fjonlinkens.com)](https://jonlinkens.com)
  
 <br/>
 
