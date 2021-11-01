@@ -12,7 +12,7 @@ Some things which have caught my interest recently:
 - 👨‍🏫 Developing no-code platforms 
 <br/>
 
-If you want to learn more about some of what I do, visit my website or take a look at my [thoughts](https://thoughts.jonlinkens.com).  
+If you want to learn more about some of what I do, visit my website or take a look at my <a href="http://thoughts.jonlinkens.com/" target="_blank">thoughts</a>.  
   
  
 <br/>
