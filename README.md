@@ -5,13 +5,6 @@
 
 I work with whatever language I think is the best to get the task done, but usually you'll find me working in **TypeScript**, **JavaScript** or **Python**. I spend most of my time knee-deep in JavaScript frameworks.
 
-Some things which have caught my interest recently:
-- 🧠 Knowledge bases (in particular, [Obsidian](https://obsidian.md/))
-- 🧾 Article Summarisation
-- 🍓 JAMStack
-- 👨‍🏫 Developing no-code platforms 
-<br/>
-
 If you want to learn more about some of what I do, visit my website or take a look at my [thoughts](http://thoughts.jonlinkens.com/).
   
  
