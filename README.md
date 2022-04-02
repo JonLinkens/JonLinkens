@@ -1,8 +1,20 @@
-## Hello, I'm Jon 🌱
+<div align="center" width="100%">
+  <a href="https://github.com/JonLinkens">
+    <img align="center" width="50%" src="./header.svg" />
+  </a>
+ </div>
+<br/>
+<a href="https://github.com/JonLinkens">
+  <img align="center" width="50%" src="./iso_calender.svg" />
+</a>
+<a href="https://github.com/JonLinkens">
+  <img align="center" width="49%" src="./lines-of-code.svg" />
+</a>
 
-If you want to learn more about some of what I do, visit my website or take a look at my [thoughts](http://thoughts.jonlinkens.com/).
+<a href="https://github.com/JonLinkens">
+  <img align="center" width="49%" src="./metrics.plugin.wakatime.svg" />
+</a>
 
-![VS Code Mileage](https://github-readme-stats.vercel.app/api/wakatime?username=jonlinkens&layout=compact&theme=dracula&langs_count=8)
-
-
-To get in touch, drop an email via my website 😄
+<a href="https://github.com/JonLinkens">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonlinkens&layout=compact&theme=dracula&langs_count=8" />
+</a>
