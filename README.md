@@ -1,8 +1,4 @@
-<div align="center" width="100%">
-  <a href="https://github.com/JonLinkens">
-    <img align="center" width="50%" src="./header.svg" />
-  </a>
- </div>
+
 <br/>
 <a href="https://github.com/JonLinkens">
   <img align="center" width="50%" src="./iso_calender.svg" />
