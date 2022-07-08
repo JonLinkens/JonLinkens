@@ -9,5 +9,5 @@
 </a>
 
 <a href="https://github.com/JonLinkens">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonlinkens&layout=compact&theme=dracula&langs_count=8" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonlinkens&layout=compact&theme=dracula&langs_count=8&hide=tex" />
 </a>
